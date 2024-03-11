@@ -1,0 +1,54 @@
+Introduction : 
+              python is general purposed , high level , dynamic type programming language .  
+
+features Of Python : 
+
+    1. Ease to Use.   => Python syntax is very clear and ease to use 
+    2. Dynamic Typed => data Types of variable determined during run time . 
+    3. High level => Human readable type.
+
+Variables :
+           value are stored in place called variables . 
+           eg : age=40 
+                print(age) // 40 
+
+Data Types :
+
+       1. Numberic Types
+            1. int  
+            2. float
+       2. String 
+            1. list 
+            2. tuple
+       3. boolean
+            bool => True || False
+       4. Sequence 
+            1. list 
+            2. tuple
+            3. range    
+       5. Mapping 
+            1. dictionary 
+       6. set Types 
+            1. set 
+            2. frozen set 
+       7. Binary Types 
+            1. bytes 
+            2. bytearray
+        8. none type 
+            1. none 
+
+Standard data types :
+
+1. Numbers
+2. dictionarys
+3. boolean
+4. set 
+5. dictionary
+6. tuple
+7. list 
+8. string 
+
+
+
+
+ 
