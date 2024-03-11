@@ -48,7 +48,9 @@ Standard data types :
 7. list 
 8. string 
 
+File gothrough in this list manner : 
 
-
-
+1. Data Types.
+2. Operators. 
+3. Conditioanal Statements 
  
